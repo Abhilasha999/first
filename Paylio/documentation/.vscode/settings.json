@@ -1,0 +1,14 @@
+{
+  "editor.fontFamily": "'Operator Mono','Fira Code'",
+  "workbench.colorTheme": "Learn with Sumit Theme - Dracula version",
+  "editor.fontSize": 18,
+  "liveSassCompile.settings.formats": [
+    {
+      "extensionName": ".css",
+      "savePath": "/css",
+      "format": "expanded"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "liveServer.settings.port": 5502
+}
